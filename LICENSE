@@ -1,10 +1,7 @@
-QWxsIGNvbnRyaWJ1dG9ycyBhcmUgcmVxdWlyZWQgdG8gYWRoZXJlIHRvIHRo
-ZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAuICh0aGUgIkxpY2Vuc2Ui
-KTsgeW91IG1heSBub3QgdXNlIHRoaHMgZmlsZSBleGNlcHQgdW5kZXIgdGhl
-IExpY2Vuc2UuCgpZb3UgbWF5IG9idGFpbiBhIGNvcHkgb2YgdGhlIExpY2Vu
-c2UgYXQKCiAgICAgaHR0cHM6Ly93d3cuYXBhcGUub3JnL2xpY2Vuc2VzL0xJ
-Q0VOU0UtMi4wCgplbmNsb3NlZCBpbiB0aGlzIGZpbGUgaXMgcHJvdmlkZWQg
-b24gYW4gIkFTIElTIiBCQVNJUywgV0lUSE9VVCBXQVJSQU5USUVTIE9SIENP
-TkRJVElPTlMuIFNlZSB0aGUgTGljZW5zZSBmb3IgdGhlIHNwZWNpZmljIGxh
-dW5nYWdlIGdvdmVybmluZyBwZXJtaXNzaW9ucyBhbmQgbGltaXRhdGlvbnMu
-Cg==
+All contributors are required to adhere to the Apache License, Version 2.0 (the "License"); you may not use this file except under the License.
+
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Enclosed in this file is provided on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS. See the License for the specific language governing permissions and limitations.
